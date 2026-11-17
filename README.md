@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **cc4lebb/cc4lebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Overview
+Software engineer with a focus on low level tools, and self hosted infrastructure. 
+
+# Tech Stack 
+- Rust
+- C/C++
+- Linux (Red Hat, Ubuntu)

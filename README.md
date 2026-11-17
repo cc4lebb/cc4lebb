@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Overview
+# Overview
 Software engineer with a focus on low level tools, and self hosted infrastructure. 
 
-# Tech Stack 
+## Tech Stack 
 - Rust
 - C/C++
 - Linux (Red Hat, Ubuntu)
